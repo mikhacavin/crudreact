@@ -1,3 +1,3 @@
 # crudreact
 CRUD REACT SINGLE PAGE APPLICATION
-![Kitten](https://imgur.com/q9X86Qv "React App")
+<a href="http://google.com/" rel="some text">![Foo](https://imgur.com/q9X86Qv)</a>
